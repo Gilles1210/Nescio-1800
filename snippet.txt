@@ -1,0 +1,1 @@
+<model-viewer src="Nescio-1800.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="2" environment-image="legacy"> </model-viewer>
